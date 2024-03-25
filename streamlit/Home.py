@@ -29,7 +29,7 @@ def main_page():
         )
         st.write("")
         st.markdown(
-            "<p class='center' style='font-size: 24px;'>GreenGuard is an innovative image classification project designed to revolutionize agriculture by providing farmers with an automated solution for the early detection of plant diseases. With the aim of mitigating crop losses and optimizing agricultural practices, GreenGuard leverages a convolutional neural network to identify and classify diseased plants into three different categories: healthy, prone to disease, and diseased.</p>",
+            "<p class='center' style='font-size: 22px;'>GreenGuard is an innovative image classification project designed to revolutionize agriculture by providing farmers with an automated solution for the early detection of plant diseases. With the aim of mitigating crop losses and optimizing agricultural practices, GreenGuard leverages a convolutional neural network to identify and classify diseased plants into three different categories: healthy, prone to disease, and diseased.</p>",
             unsafe_allow_html=True,
         )
 
@@ -60,7 +60,7 @@ def main_page():
             st.link_button("Blogs✒️", use_container_width=True, url="https://yuvraj01.hashnode.dev/")
 
         st.markdown("***")
-        Intro_text3 = "<p style='font-size: 24px;'>Navigate to the drop-down menu located at the top left corner of this webpage. Within the menu, you will find a module dedicated to plant disease prediction. Simply select this module, and you will seamlessly transition to the prediction model page.</p>"
+        Intro_text3 = "<p style='font-size: 22px;'>Navigate to the drop-down menu located at the top left corner of this webpage. Within the menu, you will find a module dedicated to plant disease prediction. Simply select this module, and you will seamlessly transition to the prediction model page.</p>"
         st.markdown(Intro_text3, unsafe_allow_html=True)
 
     with col2:
