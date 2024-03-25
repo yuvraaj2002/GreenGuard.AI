@@ -63,7 +63,7 @@ def predict_page():
     with col1:
         pass
         image = Image.open(
-            "Artifacts/Model.png"
+            "artifacts/Model.png"
         )
         image = image.resize((360, 750))
         st.image(image)
