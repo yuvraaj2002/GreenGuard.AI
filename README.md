@@ -3,17 +3,8 @@
 
 <a name="readme-top"></a>
 
-
-
-
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-</div>
-
+![image](https://github.com/yuvraaj2002/GreenGuard.AI/assets/123289647/786c4a92-1fda-4cba-a1dc-7a085b689f34)
 
 
 <!-- TABLE OF CONTENTS -->
