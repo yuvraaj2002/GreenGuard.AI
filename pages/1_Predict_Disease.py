@@ -72,7 +72,7 @@ def predict_page():
 
         #st.title("Visualizations")
         st.markdown(
-            "<p class='center' style='font-size: 20px; background-color: #CEFCBA; padding:1rem;'>To obtain predictions regarding the current state of the plant, you need to upload the image below. This image should ideally capture the entire plant, ensuring clarity and focus. Once you've uploaded the image, our advanced AI algorithms will analyze it meticulously. These algorithms are trained to detect various indicators such as leaf color, texture, size, and overall plant health. Once the analysis is complete, simply click the prediction button, and you'll receive a detailed report outlining the plant's current condition.</p>",
+            "<p class='center' style='font-size: 20px; background-color: #E1FFD4; padding:1rem;'>To obtain predictions regarding the current state of the plant, you need to upload the image below. This image should ideally capture the entire plant, ensuring clarity and focus. Once you've uploaded the image, our advanced AI algorithms will analyze it meticulously. These algorithms are trained to detect various indicators such as leaf color, texture, size, and overall plant health. Once the analysis is complete, simply click the prediction button, and you'll receive a detailed report outlining the plant's current condition.</p>",
             unsafe_allow_html=True
         )
 
