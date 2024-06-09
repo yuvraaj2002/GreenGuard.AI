@@ -5,7 +5,7 @@
 
 <!-- PROJECT LOGO -->
 ![image](https://github.com/yuvraaj2002/GreenGuard.AI/assets/123289647/786c4a92-1fda-4cba-a1dc-7a085b689f34)
-LIVE PROJECT LINK ➡️ https://greenguardai-re3tsfre3ufpu9sk96bjjd.streamlit.app/
+LIVE PROJECT LINK ➡️ https://bit.ly/3VjkoxI
 
 <!-- TABLE OF CONTENTS -->
 <details>
