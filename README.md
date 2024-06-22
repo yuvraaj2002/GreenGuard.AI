@@ -1,11 +1,5 @@
 # GreenGuard☘️
-
-
 <a name="readme-top"></a>
-
-<!-- PROJECT LOGO -->
-![image](https://github.com/yuvraaj2002/GreenGuard.AI/assets/123289647/786c4a92-1fda-4cba-a1dc-7a085b689f34)
-LIVE PROJECT LINK ➡️ https://bit.ly/3VjkoxI
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -33,6 +27,8 @@ LIVE PROJECT LINK ➡️ https://bit.ly/3VjkoxI
 
 GreenGuard is an innovative image classification project designed to revolutionize agriculture by providing farmers with an automated solution for the early detection of plant diseases. With the aim of mitigating crop losses and optimizing agricultural practices, GreenGuard leverages a convolutional neural network to identify and classify diseased plants into three different categories: healthy, prone to disease, and diseased.
 
+## Project Youtube Demo Video (Click to watch)
+[![Watch the video](https://img.youtube.com/vi/g4XxOu-M9jc/maxresdefault.jpg)](https://youtu.be/g4XxOu-M9jc)
 
 
 ## Built With
@@ -103,7 +99,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 - Twitter Handle: [@Singh_yuvraaj1](https://twitter.com/Singh_yuvraaj1)
 - Linkedin Handle: [Yuvraj Singh](https://www.linkedin.com/in/yuvraj-singh-a4430a215/)
-- Mail: [ys7233831@gmail.com](mailto:ys7233831@gmail.com)
+- Mail: [ys2002github@gmail.com](mailto:ys2002github@gmail.com)
 
 
 
